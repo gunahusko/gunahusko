@@ -2,9 +2,9 @@
 
 ---
 
-JAVA Software Developer & Comuper Designer. Specializing in JAVA & Spring Boot, HTTP & Web API.
+JAVA Software Developer & Comuper Designer. Specializing in JAVA & Spring Boot, HTTP & Web API & Unit Testing.
 
-Several years of experience working with Graphic Design Softwares: Adobe Illustrator, Adobe InDesign, Adobe Photoshop, CorelDRAW.
+Several years of experience working with Graphic Design software: Adobe Illustrator, Adobe InDesign, Adobe Photoshop, CorelDRAW.
 
 Now I'm working with JAVA projects in IntelliJ & String Boot.
 
