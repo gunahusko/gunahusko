@@ -32,10 +32,10 @@ API made with Java and Spring Boot.
 ### <a href="https://github.com/gunahusko/java-home-exercises">☕ Java exercises</a>
 Exercises made with Java.
 
-### There are also some <a href="https://github.com/gunahusko/prep-course-part-two-main">JavaScript exercises</a>, but soon I will put some UI projects.
+### There are also some <a href="https://github.com/gunahusko/prep-course-part-two-main">🚩 JavaScript exercises</a>, but soon I will put some UI projects.
 Exercises made with JavaScript & TypeScript.
 
 ---
 
-### I'm currently working on a UI project.
+### 🚧 I'm currently working on a UI project.
 💡 Improving HTML, CSS, Angular.
