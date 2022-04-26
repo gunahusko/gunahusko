@@ -40,3 +40,4 @@ Exercises made with JavaScript & TypeScript.
 
 ### 🚧 I'm currently working on a UI project.
 💡 Improving HTML, CSS, Angular.
+💡 Soon I will also improve SQL.
