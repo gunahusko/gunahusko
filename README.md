@@ -38,6 +38,6 @@ Exercises made with JavaScript & TypeScript.
 
 ---
 
-### 🚧 I'm currently working on a UI project.
+### 🚧 I'm currently working on a <a href="https://github.com/gunahusko/UI-example-html-scss-angular">UI project.</a>
 💡 Improving HTML, CSS, Angular.
 💡 Soon I will also improve SQL.
